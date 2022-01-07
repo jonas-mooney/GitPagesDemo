@@ -67,6 +67,6 @@ img:hover {
     -ms-animation: rotating 2s linear infinite;
     -o-animation: rotating 2s linear infinite;
     animation: rotating 2s linear infinite;
-    background-color: orange;
+    background-color: yellow;
     box-shadow: 10px 13px 15px 10px green
   }
